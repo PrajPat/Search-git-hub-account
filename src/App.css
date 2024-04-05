@@ -1,0 +1,70 @@
+.text {
+  display: flex;
+  justify-content: center;
+  
+  text-decoration: none;
+  font-size: xx-large;
+}
+
+.Img {
+ 
+  width: 20%;
+  height: 20%;
+  
+}
+.button{
+  color:red;
+  margin-top: 1%;
+}
+
+
+.form {
+  color: white;
+  justify-content: center;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+.sentc{
+  display: flex;
+  justify-content: center;
+}
+.sentence{
+  color: #222;
+  font-size: 30px;
+  text-align: left;
+}
+
